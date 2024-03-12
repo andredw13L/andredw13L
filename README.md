@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![andredw13L Status](https://github-readme-stats.vercel.app/api?username=andredw13L&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andredw13L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
