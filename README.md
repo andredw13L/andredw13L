@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![allons-y](https://github.com/andredw13L/andredw13L/blob/main/giphy.gif)
+![allons-y](https://github.com/andredw13L/andredw13L/blob/main/giphy.gif) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andredw13L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andredw13L&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
