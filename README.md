@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/andredw13L/andredw13L/blob/main/giphy.gif" alt="Allons-y!"/> [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andredw13L&layout=compact)](https://github.com/anuraghazra/github-readme-stats&langs_count=10)
+<img src="https://github.com/andredw13L/andredw13L/blob/main/giphy.gif" alt="Allons-y!" height="215px"/> [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andredw13L&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
